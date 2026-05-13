@@ -1,0 +1,2 @@
+pygame for functionality of game
+sys for exit the game when the player quits
